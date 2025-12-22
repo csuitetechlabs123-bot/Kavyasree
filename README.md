@@ -18,4 +18,9 @@ Steps Followed:
 3. Inserted icons and shapes to organize the job roles and make the poster more visually appealing.
 4. Structured the requirements section using bullet points for clarity and readability.
 5. Customized typography, alignment, and spacing to maintain a neat and consistent design flow.
-6. Exported the final poster as a high-quality image suitable for corporate hiring posts, website uploads, and GitHub documentation.
+
+6. specific logo creation
+7. Exported the final poster as a high-quality image suitable for corporate hiring posts, website uploads, and GitHub documentation.
+I created college-specific logos aligned with their respective districts using Canva. Each logo was thoughtfully designed to reflect the identity, culture, and uniqueness of the specific district where the college is located.
+While designing, I focused on district-related symbols, colors, landmarks, and cultural elements to ensure the logo represents both the institution’s values and its regional significance. Canva’s design tools, icons, typography options, and color palettes were used to maintain visual balance, clarity, and professionalism.
+The logos were created to be simple, meaningful, and versatile, making them suitable for use on college banners, certificates, websites, social media, and official documents. This project helped me enhance my creative thinking, branding skills, and digital design proficiency
